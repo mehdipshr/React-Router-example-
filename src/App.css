@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width: 90%;
+  background-color: aquamarine;
+  margin: auto;
+}
+#Footer{
+  
+  color: rgb(0, 41, 77);
+  height: 1100px;
+}
+.a-tags{
+  color: white;
+  margin: 20px;
+}
+#sign-section{
+  width: 70%;
+  
+
+}
